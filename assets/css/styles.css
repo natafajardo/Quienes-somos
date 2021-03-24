@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+  text-shadow: 5px 5px 5px #aaa;
+}
+
+.banner {
+  background: url(../img/niños.jpg);
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-menu {
+    display: flex;
+    justify-content: flex-end;
+}
