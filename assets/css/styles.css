@@ -9,11 +9,23 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+.quienes-header {
+  padding: 0;
+}
+
+.quienes-navbar {
+  background: #edebeb;
+}
+
 h1 {
   text-align: center;
   color: #fff;
   font-family: sans-serif;
   text-shadow: 5px 5px 5px #aaa;
+}
+
+section {
+  padding: 25px;
 }
 
 .banner {
@@ -25,7 +37,6 @@ h1 {
   background-size: cover;
 }
 
-.main-menu {
-    display: flex;
-    justify-content: flex-end;
+.nav-item a {
+    color: #6c14e0;
 }
