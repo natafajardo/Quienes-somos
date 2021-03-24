@@ -1,0 +1,22 @@
+footer {
+  padding: 25px 25px 3px;
+	background: black;
+	color: white;
+}
+
+footer .contactanos {
+  margin: 0 0 25px 0;
+}
+
+footer .contactanos p {
+  margin: 0;
+}
+
+footer .iconos {
+  margin: 0 0 25px 0;
+}
+
+footer .copy {
+  font-size: 12px;
+  text-align: center;
+}
