@@ -14,12 +14,18 @@ html {
 }
 
 h1 {
-  text-align: center;
-  color: #fff;
+  color: black;
   font-family: sans-serif;
   text-shadow: 5px 5px 5px #aaa;
+  font-size: 30px;
 }
 
+h2 {
+  color: black;
+  font-family: sans-serif;
+  text-shadow: 5px 5px 5px #aaa;
+  font-size: 30px;
+}
 section {
   padding: 25px;
 }
@@ -34,5 +40,82 @@ section {
 }
 
 .nav-item a {
-    color: #6c14e0;
+  color: #6c14e0;
+}
+.grupo_de_trabajo {
+  padding: 50px;
+}
+.grupo_de_trabajo p {
+  text-align: center;
+  line-height: 5px;
+  padding-top: 10px;
+}
+.diana {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.diana img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.natalia {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.natalia img {
+  width: 180px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.jonathan {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.jonathan img {
+  width: 180px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.Andres {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.Andres img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.yoneider {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.yoneider img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.layo {
+  display: inline-block;
+  padding: 20px;
+  padding-left: 6vw;
+}
+.layo img {
+  width: 180px;
+  height: 210px;
+  display: block;
+  margin: auto;
+}
+p {
+  font-size: 20px;
 }
